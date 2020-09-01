@@ -4,4 +4,4 @@ This is a color scheme exporter for my favorite color schemes. Feel free to put 
 
 ## Usage
 
-`node colors.js \<filename without .json\>`
+`node colors.js <filename without .json>`
